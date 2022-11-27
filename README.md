@@ -52,7 +52,13 @@ There are several types of malwares like:
 * <b>ROOTKITS</b>: modifies OS files to create backdoors,... and the list goes on...
 
 This project helps the users as a defense system that works to detect malware samples before they have a chance to infect a vivtim's mobile.
+
+Flask API:  https://github.com/naveenvarma600/MalwareAPK
+
+Keras Model: https://github.com/naveenvarma600/DL-model-for-Malicious-APK
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 ## Built With
 
@@ -114,8 +120,9 @@ Naveen Varma - [@LinkedIn](https://www.linkedin.com/in/naveenvarma600/) - naveen
 
 Project Link: [https://github.com/naveenvarma600/AndroShield](https://github.com/naveenvarma600/AndroShield)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- ACKNOWLEDGMENTS -->
