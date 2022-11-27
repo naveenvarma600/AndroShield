@@ -59,7 +59,9 @@ This project helps the users as a defense system that works to detect malware sa
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This section lists the major frameworks/libraries used to bootstrap this project.
+
+
 
 
 
